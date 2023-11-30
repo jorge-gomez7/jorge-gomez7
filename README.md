@@ -1,9 +1,10 @@
 ## Jorge Gómez
-I'm web developer
-Programming in PHP, Javascript, Typescript.
-Frameworks Angular, React, Ionic, Vue.
-DB MySQL, MongoDB.
-Styles CSS, Bootstrap. 💻
+I'm a software web developer
+Programming in nodeJS,.net, Javascript, Typescript.
+Framework AngularJS, Ionic, ExpressJS.
+Library ReactJS
+DB MySQL, MongoDB, SQL Server.
+Styles CSS, Bootstrap,Tailwind 💻
 
 ##### Followme 💪
 ==================
